@@ -9,7 +9,7 @@
 I'm Felix, a self-taught data analyst.
 
 ### ✨ About Me in 30 Secs ✨
-- 👩🏻‍💻 Currently a Graduate Student 
+- 🏻‍💻 Currently a Graduate Student 
 - 📝 Taught myself SQL, Python and Tableau
 
 ### 📚 Projects & Guides 📚
