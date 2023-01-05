@@ -13,8 +13,7 @@ I'm Felix, a self-taught data analyst.
 - 📝 Taught myself SQL, Python and Tableau
 
 ### 📚 Projects & Guides 📚
-- For my portfolio guide, click **[HERE](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md)**
-- How to transition into Data Analytics? Click **[HERE](https://github.com/katiehuangx/Transition-into-Data-Analytics/blob/main/README.md)**
+- For my portfolio guide, click **[HERE](https://github.com/fellydyll/Data-Analysis-Portfolio/blob/main/README.md)**
 
 ### 💡 Core Competencies 💡
 - Tools: SQL, Python, Tableau
